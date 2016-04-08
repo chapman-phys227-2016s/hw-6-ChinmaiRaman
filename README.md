@@ -19,6 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw6.ipynb```
 
 ## Assessment
 
+The problems were simple, and the second one was interesting.
 
 ## Honor Pledge
 
